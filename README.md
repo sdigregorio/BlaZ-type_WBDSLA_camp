@@ -1,4 +1,4 @@
-### Proyecto final del WBDS LA Camp - BlaZ type
+## Proyecto final del WBDS LA Camp - BlaZ type
 
 **Autora:** Sabrina Di Gregorio
 
