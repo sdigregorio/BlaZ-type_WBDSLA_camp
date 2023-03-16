@@ -16,8 +16,10 @@ Hay descriptos 6 tipos de BlaZ (A, B, C, D, E, F) ([Harrison 2019](https://www.n
 
 ## Objetivos del proyecto
 El siguiente proyecto tiene como objetivo conocer el tipo de BlaZ de *S. aureus* depositadas en NCBI con el fin de:
-A- Ver si hay depositadas en la base de datos alguna proteína con potencial nuevo tipo de BlaZ
-B- Armar una base de datos de secuencias de esta proteína para posteriormente estudiar su filogenia
+
+A- Ver si hay depositadas en la base de datos alguna proteína con potencial nuevo tipo de BlaZ.
+
+B- Armar una base de datos de secuencias de esta proteína para posteriormente estudiar su filogenia.
 
 
 ## Instalación
@@ -36,10 +38,14 @@ Para realizar el siguiente proyecto hacen falta:
 ## Resumen
 En este proyecto se emplean diversos programas y bibliotecas que permiten:
 
-**1.**   Buscar las secuencias de BlaZ de la especie *S. aureus* en la base de datos de proteínas de NCBI (Refseq).(Bio Entrez)
+**1.**   Buscar las secuencias de BlaZ de la especie *S. aureus* en la base de datos de proteínas de NCBI (Refseq).(Bio Entrez).
+
 **2.**   Descargar dichas secuencias como archivo multi .fasta (Bio SeqIO) y alinearlas junto con secuencias de referencia de BlaZ pertenecientes a distintos tipos (MAFFT).
+
 **3.**   Determinar el tipo y la frecuencia de cada secuencia de BlaZ utilizando técnicas de análisis y visualización de datos (Pandas, Biopython).
+
 **4.**   Encontrar secuencias de BlaZ no tipables que podrían corresponder con nuevas variantes de la enzima (Pandas).
+
 **5.**   Analizar y visualizar las relaciones filogenéticas entre los distintos tipos de BlaZ encontrados (IQTree, Figtree).
 
 
