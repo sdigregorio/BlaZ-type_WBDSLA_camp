@@ -77,8 +77,4 @@ El proyecto planteado permitió conseguir los objetivos. Ver conclusiones detall
 Se planea a futuro automatizar el agregado/edición de secuencias de referencia al archivo multifasta.
 
 
-## Video Explicativo
-
-
-
 
